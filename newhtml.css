@@ -1,0 +1,18 @@
+.button {
+    background-color: #4CAF50; /* 緑色 */
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049; /* ホバー時に少し濃い緑に */
+  }
+  
